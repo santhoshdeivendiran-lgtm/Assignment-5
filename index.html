@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ShopNest</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>ShopNest</h1>
+    Cart: <span id="count">0</span>
+</header>
+
+<input type="text" id="search" placeholder="Search products">
+
+<div id="buttons">
+    <button onclick="filterCategory('All')">All</button>
+    <button onclick="filterCategory('Electronics')">Electronics</button>
+    <button onclick="filterCategory('Clothing')">Clothing</button>
+    <button onclick="filterCategory('Footwear')">Footwear</button>
+    <button onclick="filterCategory('Books')">Books</button>
+</div>
+
+<h2>Products</h2>
+<div id="products"></div>
+<p id="message"></p>
+
+<h2>Shopping Cart</h2>
+<div id="cart"></div>
+
+<h3>Total: ₹<span id="total">0</span></h3>
+
+<script src="script.js"></script>
+</body>
+</html>

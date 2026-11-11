@@ -1,0 +1,55 @@
+
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+header {
+    background: navy;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+input {
+    padding: 10px;
+    width: 90%;
+    margin: 15px 0;
+}
+
+button {
+    padding: 8px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#products {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.card {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+
+#cart {
+    background: white;
+    padding: 15px;
+}
+
+@media(max-width:600px) {
+    #products {
+        grid-template-columns: 1fr;
+    }
+}
