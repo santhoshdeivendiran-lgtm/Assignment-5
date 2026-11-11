@@ -1,15 +1,111 @@
 
 [
- {"id":1,"name":"Headphones","category":"Electronics","price":1000,"originalPrice":1500,"rating":4.5,"imageUrl":"https://picsum.photos/200?1"},
- {"id":2,"name":"Smart Watch","category":"Electronics","price":1500,"originalPrice":2000,"rating":4.2,"imageUrl":"https://picsum.photos/200?2"},
- {"id":3,"name":"Speaker","category":"Electronics","price":800,"originalPrice":1200,"rating":4.1,"imageUrl":"https://picsum.photos/200?3"},
- {"id":4,"name":"Mouse","category":"Electronics","price":400,"originalPrice":600,"rating":4.0,"imageUrl":"https://picsum.photos/200?4"},
- {"id":5,"name":"T Shirt","category":"Clothing","price":500,"originalPrice":800,"rating":4.3,"imageUrl":"https://picsum.photos/200?5"},
- {"id":6,"name":"Shirt","category":"Clothing","price":700,"originalPrice":1000,"rating":4.4,"imageUrl":"https://picsum.photos/200?6"},
- {"id":7,"name":"Jeans","category":"Clothing","price":900,"originalPrice":1200,"rating":4.5,"imageUrl":"https://picsum.photos/200?7"},
- {"id":8,"name":"Shoes","category":"Footwear","price":1200,"originalPrice":1800,"rating":4.6,"imageUrl":"https://picsum.photos/200?8"},
- {"id":9,"name":"Sneakers","category":"Footwear","price":1500,"originalPrice":2000,"rating":4.5,"imageUrl":"https://picsum.photos/200?9"},
- {"id":10,"name":"Sandals","category":"Footwear","price":500,"originalPrice":700,"rating":4.0,"imageUrl":"https://picsum.photos/200?10"},
- {"id":11,"name":"Java Book","category":"Books","price":400,"originalPrice":600,"rating":4.7,"imageUrl":"https://picsum.photos/200?11"},
- {"id":12,"name":"HTML Book","category":"Books","price":300,"originalPrice":500,"rating":4.6,"imageUrl":"https://picsum.photos/200?12"}
+  {
+    "id": 1,
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 1000,
+    "originalPrice": 1500,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 1500,
+    "originalPrice": 2000,
+    "rating": 4.2,
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500"
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 800,
+    "originalPrice": 1200,
+    "rating": 4.1,
+    "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 400,
+    "originalPrice": 600,
+    "rating": 4.0,
+    "imageUrl": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500"
+  },
+  {
+    "id": 5,
+    "name": "T Shirt",
+    "category": "Clothing",
+    "price": 500,
+    "originalPrice": 800,
+    "rating": 4.3,
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500"
+  },
+  {
+    "id": 6,
+    "name": "Denim Jacket",
+    "category": "Clothing",
+    "price": 700,
+    "originalPrice": 1000,
+    "rating": 4.4,
+    "imageUrl": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?w=500"
+  },
+  {
+    "id": 7,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 900,
+    "originalPrice": 1200,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=500"
+  },
+  {
+    "id": 8,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 1200,
+    "originalPrice": 1800,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
+  },
+  {
+    "id": 9,
+    "name": "Sneakers",
+    "category": "Footwear",
+    "price": 1500,
+    "originalPrice": 2000,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500"
+  },
+  {
+    "id": 10,
+    "name": "Sandals",
+    "category": "Footwear",
+    "price": 500,
+    "originalPrice": 700,
+    "rating": 4.0,
+    "imageUrl": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=500"
+  },
+  {
+    "id": 11,
+    "name": "Java Book",
+    "category": "Books",
+    "price": 400,
+    "originalPrice": 600,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500"
+  },
+  {
+    "id": 12,
+    "name": "HTML Book",
+    "category": "Books",
+    "price": 300,
+    "originalPrice": 500,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=500"
+  }
 ]
